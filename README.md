@@ -1,4 +1,4 @@
-<h3 align="center">who am I ? 🥲</h3>
+<h3>who am I ? 🥲</h3>
 
 <p><strong>Hello, I'm Benjamin 👋</strong></p>
 
@@ -6,13 +6,13 @@
 
 <br>
 
-<h3 align="center">my hobbies 🎥 • 🎮 • 📚</h3>
+<h3>my hobbies 🎥 • 🎮 • 📚</h3>
 
 <p>I like watching movies, playing videogames, reading, and pulling my hair while coding 👍</p>
 
 <br>
 
-<h3 align="center">qualities 🦫</h3>
+<h3>qualities 🦫</h3>
 
 ..* Independent, I can work on my own, but I'm not afraid to be part of a team.
 ..* Calm.
@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="center">languages and skills 💻</h3>
+<h3>languages and skills 💻</h3>
 
 ..* HTML/CSS
 ..* JavaScript, NodeJs
@@ -32,7 +32,7 @@
 
 <br>
 
-<h3 align="center">contact me 📧</h3>
+<h3>contact me 📧</h3>
 
 at : benjamin.padieu@outlook.fr
 
