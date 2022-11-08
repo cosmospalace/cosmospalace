@@ -1,21 +1,17 @@
-### who am I ? 🥲
-<p align="center">
-  <strong>Hello, I'm Benjamin 👋</strong>
-</p>
+<h3 align="center">who am I ? 🥲</h3>
 
-<hr>
+<p><strong>Hello, I'm Benjamin 👋</strong></p>
+
 
 <p>I'm 24 y/o, and I'm currently a student at Webforce3 learning web dev stuff</p>
 
-<hr>
 
-### my hobbies 🎥 • 🎮 • 📚
+<h3 align="center">my hobbies 🎥 • 🎮 • 📚</h3>
 
 <p>I like watching movies, playing videogames, reading, and pulling my hair while coding 👍</p>
 
-<hr>
 
-### qualities 🦫
+<h3 align="center">qualities 🦫</h3>
 
 ..* Independent, I can work on my own, but I'm not afraid to be part of a team.
 ..* Calm.
@@ -24,16 +20,14 @@
 
 <p> I'm still a student so I'm still learning every day </p>
 
-<hr>
-
-### languages and skills 💻
+<h3 align="center">languages and skills 💻</h3>
 
 ..* HTML/CSS
 ..* JavaScript, NodeJs
 ..* PHP
 ..* Database management with MySQL
 
-### contact me 📧
+<h3 align="center">contact me 📧</h3>
 
 at : benjamin.padieu@outlook.fr
 
