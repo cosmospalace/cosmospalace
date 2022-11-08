@@ -1,6 +1,6 @@
 <h3>who am I ? 🥲</h3>
 
-<p><strong>Hello, I'm Benjamin 👋</strong></p>
+<p>Hello, I'm Benjamin 👋</p>
 
 <p>I'm 24 y/o, and I'm currently a student at Webforce3 learning web dev stuff</p>
 
@@ -14,10 +14,12 @@
 
 <h3>qualities 🦫</h3>
 
-..* Independent, I can work on my own, but I'm not afraid to be part of a team.
-..* Calm.
-..* Resilient. Eh, I finished Elden Ring after all.
-..* I'm overall a good person that others like the company of 🙃
+<ul>
+  <li>Independent, I can work on my own, but I'm not afraid to be part of a team.</li>
+  <li>Calm.</li>
+  <li>Resilient. Eh, I finished Elden Ring after all.</li>
+  <li>I'm overall a good person that others like the company of 🙃</li>
+</ul>
 
 <p> I'm still a student so I'm still learning every day </p>
 
@@ -25,10 +27,12 @@
 
 <h3>languages and skills 💻</h3>
 
-..* HTML/CSS
-..* JavaScript, NodeJs
-..* PHP
-..* Database management with MySQL
+<ul>
+  <li>HTML/CSS</li>
+  <li>JavaScript, NodeJs</li>
+  <li>PHP</li>
+  <li>Database management with MySQL</li>
+</ul>
 
 <br>
 
@@ -36,6 +40,7 @@
 
 at : benjamin.padieu@outlook.fr
 
+<img width="55px" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFGvX1TBO1O3YvZUQ52T3aO9CacjjAc9x3w&usqp=CAU">
 
 
 
