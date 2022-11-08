@@ -1,1 +1,1 @@
-# Hello, I'm Benjamin 👋
+<p align="center">Hello, I'm Benjamin 👋</p>
