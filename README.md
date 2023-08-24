@@ -2,7 +2,7 @@
 
 <p>Hello, I'm Benjamin 👋</p>
 
-<p>I'm 24 y/o, and I'm currently a student at Webforce3 learning web dev stuff</p>
+<p>I'm 25 y/o, and I'm currently a student at Webforce3 learning web dev stuff</p>
 
 <br>
 
