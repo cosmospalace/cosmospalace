@@ -2,7 +2,7 @@
 
 <p>Hello, I'm Benjamin 👋</p>
 
-<p>I'm 25 y/o, and I'm currently a student at Webforce3 learning web dev stuff</p>
+<p>I'm 26</p>
 
 <br>
 
@@ -29,9 +29,7 @@
 
 <ul>
   <li>HTML/CSS</li>
-  <li>JavaScript, NodeJs</li>
-  <li>PHP</li>
-  <li>Database management with MySQL</li>
+  <li>JavaScript</li>
 </ul>
 
 <br>
